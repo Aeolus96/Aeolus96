@@ -4,8 +4,8 @@
 
 I've been a Robotics Developer for over 10 years and I work with cutting-edge robotic systems, prototype hybrid and electric cars, and industrial 3D printers. I help companies transform ideas into successful products that make an impact.
 
-* 🏛️  I am currently pursuing a Computer Science graduate degree at [Lawrence Technological University](https://www.ltu.edu/) with a focus on Deep Learning and Neural Networks, Robotics Systems and Autonomous Driving
-* 🚀  I'm currently working on Applied AI, Path Planning, and Software Architecture re-design for [Autonomous Vehicles @LTU](http://ltu-actor.github.io)
+* 🏛️  I am currently working at [Lawrence Technological University](https://www.ltu.edu/) as the Computer Science Robotics Research Lab Manager
+* 🚀  I'm currently working on Applied AI, Scene Reconstruction & Perception, Navigation and Robotics Software
 * 🌍  I'm based in Detroit, Michigan, USA
 * ✉️  You can contact me at [devson.butani@gmail.com](mailto:devson.butani@gmail.com)
 
@@ -100,5 +100,9 @@ I've been a Robotics Developer for over 10 years and I work with cutting-edge ro
 <p align="left">
     <a href="https://www.buymeacoffee.com/devson"><img
     src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-    width="150" height="36"/></a>
+    width="150" height="36" style="border-radius:8px;"/></a>
+    <!-- Profile views badge: rounded and yellow background -->
+    <span style="display:inline-block; vertical-align:top; margin-left:8px;">
+        <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Aeolus96&color=yellow" style="display:block; border-radius:8px; height:36px;"/>
+    </span>
 </p>
